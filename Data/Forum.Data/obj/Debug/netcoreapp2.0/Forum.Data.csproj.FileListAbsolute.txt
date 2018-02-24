@@ -1,0 +1,13 @@
+D:\Projects\Forum\forum-api\Data\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+D:\Projects\Forum\forum-api\Data\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Projects\Forum\forum-api\Data\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Projects\Forum\forum-api\Data\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Business.dll
+D:\Projects\Forum\forum-api\Data\Forum.Data\bin\Debug\netcoreapp2.0\RaphaelSantos.Framework.dll
+D:\Projects\Forum\forum-api\Data\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Business.pdb
+D:\Projects\Forum\forum-api\Data\Forum.Data\bin\Debug\netcoreapp2.0\RaphaelSantos.Framework.pdb
+D:\Projects\Forum\forum-api\Data\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojResolveAssemblyReference.cache
+D:\Projects\Forum\forum-api\Data\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Forum\forum-api\Data\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+D:\Projects\Forum\forum-api\Data\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+D:\Projects\Forum\forum-api\Data\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Projects\Forum\forum-api\Data\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb

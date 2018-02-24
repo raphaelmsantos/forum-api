@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20180217221515_initial.cs" />
+    <Compile Remove="Migrations\20180217224821_test.cs" />
+    <Compile Remove="Migrations\20180217225049_removecascade.cs" />
+    <Compile Remove="Migrations\20180217225353_relationship.cs" />
+    <Compile Remove="Migrations\20180217225920_initial.cs" />
+    <Compile Remove="Migrations\20180217230221_initial.cs" />
+    <Compile Remove="Migrations\20180217230352_initial.cs" />
+    <Compile Remove="Migrations\20180217231952_initial.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Business\Forum.Business\Forum.Business.csproj" />
+  </ItemGroup>
+
+</Project>

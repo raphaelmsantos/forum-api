@@ -1,0 +1,11 @@
+D:\Projects\Forum\forum-api\Business\Forum.Business\bin\Debug\netcoreapp2.0\Forum.Business.deps.json
+D:\Projects\Forum\forum-api\Business\Forum.Business\bin\Debug\netcoreapp2.0\Forum.Business.dll
+D:\Projects\Forum\forum-api\Business\Forum.Business\bin\Debug\netcoreapp2.0\Forum.Business.pdb
+D:\Projects\Forum\forum-api\Business\Forum.Business\bin\Debug\netcoreapp2.0\RaphaelSantos.Framework.dll
+D:\Projects\Forum\forum-api\Business\Forum.Business\bin\Debug\netcoreapp2.0\RaphaelSantos.Framework.pdb
+D:\Projects\Forum\forum-api\Business\Forum.Business\obj\Debug\netcoreapp2.0\Forum.Business.csprojResolveAssemblyReference.cache
+D:\Projects\Forum\forum-api\Business\Forum.Business\obj\Debug\netcoreapp2.0\Forum.Business.csproj.CoreCompileInputs.cache
+D:\Projects\Forum\forum-api\Business\Forum.Business\obj\Debug\netcoreapp2.0\Forum.Business.AssemblyInfoInputs.cache
+D:\Projects\Forum\forum-api\Business\Forum.Business\obj\Debug\netcoreapp2.0\Forum.Business.AssemblyInfo.cs
+D:\Projects\Forum\forum-api\Business\Forum.Business\obj\Debug\netcoreapp2.0\Forum.Business.dll
+D:\Projects\Forum\forum-api\Business\Forum.Business\obj\Debug\netcoreapp2.0\Forum.Business.pdb

@@ -1,0 +1,9 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/Api/Forum.Api/bin
+/Business/Forum.Business/bin
+/Data/Forum.Data/bin
+/Shared/RaphaelSantos.Framework/bin
+/.vs/Forum/v15
+/Shared/RaphaelSantos.Framework/obj/Debug/netstandard2.0

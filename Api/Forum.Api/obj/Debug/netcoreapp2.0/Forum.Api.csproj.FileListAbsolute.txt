@@ -1,0 +1,17 @@
+D:\Projects\Forum\forum-api\Api\Forum.Api\bin\Debug\netcoreapp2.0\Forum.Api.deps.json
+D:\Projects\Forum\forum-api\Api\Forum.Api\bin\Debug\netcoreapp2.0\Forum.Api.runtimeconfig.json
+D:\Projects\Forum\forum-api\Api\Forum.Api\bin\Debug\netcoreapp2.0\Forum.Api.runtimeconfig.dev.json
+D:\Projects\Forum\forum-api\Api\Forum.Api\bin\Debug\netcoreapp2.0\Forum.Api.dll
+D:\Projects\Forum\forum-api\Api\Forum.Api\bin\Debug\netcoreapp2.0\Forum.Api.pdb
+D:\Projects\Forum\forum-api\Api\Forum.Api\bin\Debug\netcoreapp2.0\Forum.Business.dll
+D:\Projects\Forum\forum-api\Api\Forum.Api\bin\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Projects\Forum\forum-api\Api\Forum.Api\bin\Debug\netcoreapp2.0\RaphaelSantos.Framework.dll
+D:\Projects\Forum\forum-api\Api\Forum.Api\bin\Debug\netcoreapp2.0\Forum.Business.pdb
+D:\Projects\Forum\forum-api\Api\Forum.Api\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Projects\Forum\forum-api\Api\Forum.Api\bin\Debug\netcoreapp2.0\RaphaelSantos.Framework.pdb
+D:\Projects\Forum\forum-api\Api\Forum.Api\obj\Debug\netcoreapp2.0\Forum.Api.csprojResolveAssemblyReference.cache
+D:\Projects\Forum\forum-api\Api\Forum.Api\obj\Debug\netcoreapp2.0\Forum.Api.csproj.CoreCompileInputs.cache
+D:\Projects\Forum\forum-api\Api\Forum.Api\obj\Debug\netcoreapp2.0\Forum.Api.AssemblyInfoInputs.cache
+D:\Projects\Forum\forum-api\Api\Forum.Api\obj\Debug\netcoreapp2.0\Forum.Api.AssemblyInfo.cs
+D:\Projects\Forum\forum-api\Api\Forum.Api\obj\Debug\netcoreapp2.0\Forum.Api.dll
+D:\Projects\Forum\forum-api\Api\Forum.Api\obj\Debug\netcoreapp2.0\Forum.Api.pdb
